@@ -1,0 +1,13 @@
+@: READ ABOUT 'IN' operator in SQL(Shorthand for multiple or operators) 
+        -> https://www.w3schools.com/sql/sql_in.asp
+
+@: Read About LIKE Operator in SQL(The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.)
+        -> https://www.w3schools.com/sql/sql_like.asp
+        
+@ Read About Order By in SQL(Use to sort table data in ascending or descending order)
+        -> https://www.w3schools.com/sql/sql_orderby.asp
+
+@ Read About Join in SQL(Use to extract common content within 2 tables)
+        -> https://www.w3schools.com/sql/sql_join.asp        
+        
+        
